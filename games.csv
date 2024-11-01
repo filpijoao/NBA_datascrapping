@@ -1,0 +1,66 @@
+,key,day,month,year,away_team,away_team_score,away_team_key,away_team_W/L,home_team,home_team_score,home_team_key,home_team_W/L
+0,/boxscores/pbp/202410300CHI.html,30,10,2024,Orlando Magic,99,/teams/ORL/2025.html,L,Chicago Bulls,102,/teams/CHI/2025.html,W
+1,/boxscores/pbp/202410300CHO.html,30,10,2024,Toronto Raptors,133,/teams/TOR/2025.html,L,Charlotte Hornets,138,/teams/CHO/2025.html,W
+2,/boxscores/pbp/202410300CLE.html,30,10,2024,Los Angeles Lakers,110,/teams/LAL/2025.html,L,Cleveland Cavaliers,134,/teams/CLE/2025.html,W
+3,/boxscores/pbp/202410300GSW.html,30,10,2024,New Orleans Pelicans,89,/teams/NOP/2025.html,L,Golden State Warriors,104,/teams/GSW/2025.html,W
+4,/boxscores/pbp/202410300IND.html,30,10,2024,Boston Celtics,132,/teams/BOS/2025.html,L,Indiana Pacers,135,/teams/IND/2025.html,W
+5,/boxscores/pbp/202410300LAC.html,30,10,2024,Portland Trail Blazers,106,/teams/POR/2025.html,W,Los Angeles Clippers,105,/teams/LAC/2025.html,L
+6,/boxscores/pbp/202410300MEM.html,30,10,2024,Brooklyn Nets,119,/teams/BRK/2025.html,W,Memphis Grizzlies,106,/teams/MEM/2025.html,L
+7,/boxscores/pbp/202410300MIA.html,30,10,2024,New York Knicks,116,/teams/NYK/2025.html,W,Miami Heat,107,/teams/MIA/2025.html,L
+8,/boxscores/pbp/202410300OKC.html,30,10,2024,San Antonio Spurs,93,/teams/SAS/2025.html,L,Oklahoma City Thunder,105,/teams/OKC/2025.html,W
+9,/boxscores/pbp/202410300PHI.html,30,10,2024,Detroit Pistons,105,/teams/DET/2025.html,W,Philadelphia 76ers,95,/teams/PHI/2025.html,L
+10,/boxscores/pbp/202410300WAS.html,30,10,2024,Atlanta Hawks,120,/teams/ATL/2025.html,L,Washington Wizards,133,/teams/WAS/2025.html,W
+11,/boxscores/pbp/202410290BRK.html,29,10,2024,Denver Nuggets,144,/teams/DEN/2025.html,W,Brooklyn Nets,139,/teams/BRK/2025.html,L
+12,/boxscores/pbp/202410290GSW.html,29,10,2024,New Orleans Pelicans,106,/teams/NOP/2025.html,L,Golden State Warriors,124,/teams/GSW/2025.html,W
+13,/boxscores/pbp/202410290MIN.html,29,10,2024,Dallas Mavericks,120,/teams/DAL/2025.html,W,Minnesota Timberwolves,114,/teams/MIN/2025.html,L
+14,/boxscores/pbp/202410290UTA.html,29,10,2024,Sacramento Kings,113,/teams/SAC/2025.html,W,Utah Jazz,96,/teams/UTA/2025.html,L
+15,/boxscores/pbp/202410280ATL.html,28,10,2024,Washington Wizards,121,/teams/WAS/2025.html,W,Atlanta Hawks,119,/teams/ATL/2025.html,L
+16,/boxscores/pbp/202410280BOS.html,28,10,2024,Milwaukee Bucks,108,/teams/MIL/2025.html,L,Boston Celtics,119,/teams/BOS/2025.html,W
+17,/boxscores/pbp/202410280DAL.html,28,10,2024,Utah Jazz,102,/teams/UTA/2025.html,L,Dallas Mavericks,110,/teams/DAL/2025.html,W
+18,/boxscores/pbp/202410280MEM.html,28,10,2024,Chicago Bulls,126,/teams/CHI/2025.html,W,Memphis Grizzlies,123,/teams/MEM/2025.html,L
+19,/boxscores/pbp/202410280MIA.html,28,10,2024,Detroit Pistons,98,/teams/DET/2025.html,L,Miami Heat,106,/teams/MIA/2025.html,W
+20,/boxscores/pbp/202410280NYK.html,28,10,2024,Cleveland Cavaliers,110,/teams/CLE/2025.html,W,New York Knicks,104,/teams/NYK/2025.html,L
+21,/boxscores/pbp/202410280ORL.html,28,10,2024,Indiana Pacers,115,/teams/IND/2025.html,L,Orlando Magic,119,/teams/ORL/2025.html,W
+22,/boxscores/pbp/202410280PHO.html,28,10,2024,Los Angeles Lakers,105,/teams/LAL/2025.html,L,Phoenix Suns,109,/teams/PHO/2025.html,W
+23,/boxscores/pbp/202410280SAC.html,28,10,2024,Portland Trail Blazers,98,/teams/POR/2025.html,L,Sacramento Kings,111,/teams/SAC/2025.html,W
+24,/boxscores/pbp/202410280SAS.html,28,10,2024,Houston Rockets,106,/teams/HOU/2025.html,W,San Antonio Spurs,101,/teams/SAS/2025.html,L
+25,/boxscores/pbp/202410280TOR.html,28,10,2024,Denver Nuggets,127,/teams/DEN/2025.html,W,Toronto Raptors,125,/teams/TOR/2025.html,L
+26,/boxscores/pbp/202410270BRK.html,27,10,2024,Milwaukee Bucks,102,/teams/MIL/2025.html,L,Brooklyn Nets,115,/teams/BRK/2025.html,W
+27,/boxscores/pbp/202410270GSW.html,27,10,2024,Los Angeles Clippers,112,/teams/LAC/2025.html,W,Golden State Warriors,104,/teams/GSW/2025.html,L
+28,/boxscores/pbp/202410270IND.html,27,10,2024,Philadelphia 76ers,118,/teams/PHI/2025.html,W,Indiana Pacers,114,/teams/IND/2025.html,L
+29,/boxscores/pbp/202410270OKC.html,27,10,2024,Atlanta Hawks,104,/teams/ATL/2025.html,L,Oklahoma City Thunder,128,/teams/OKC/2025.html,W
+30,/boxscores/pbp/202410270POR.html,27,10,2024,New Orleans Pelicans,103,/teams/NOP/2025.html,L,Portland Trail Blazers,125,/teams/POR/2025.html,W
+31,/boxscores/pbp/202410260CHI.html,26,10,2024,Oklahoma City Thunder,114,/teams/OKC/2025.html,W,Chicago Bulls,95,/teams/CHI/2025.html,L
+32,/boxscores/pbp/202410260CHO.html,26,10,2024,Miami Heat,114,/teams/MIA/2025.html,W,Charlotte Hornets,106,/teams/CHO/2025.html,L
+33,/boxscores/pbp/202410260DEN.html,26,10,2024,Los Angeles Clippers,109,/teams/LAC/2025.html,W,Denver Nuggets,104,/teams/DEN/2025.html,L
+34,/boxscores/pbp/202410260DET.html,26,10,2024,Boston Celtics,124,/teams/BOS/2025.html,W,Detroit Pistons,118,/teams/DET/2025.html,L
+35,/boxscores/pbp/202410260LAL.html,26,10,2024,Sacramento Kings,127,/teams/SAC/2025.html,L,Los Angeles Lakers,131,/teams/LAL/2025.html,W
+36,/boxscores/pbp/202410260MEM.html,26,10,2024,Orlando Magic,111,/teams/ORL/2025.html,L,Memphis Grizzlies,124,/teams/MEM/2025.html,W
+37,/boxscores/pbp/202410260MIN.html,26,10,2024,Toronto Raptors,101,/teams/TOR/2025.html,L,Minnesota Timberwolves,112,/teams/MIN/2025.html,W
+38,/boxscores/pbp/202410260PHO.html,26,10,2024,Dallas Mavericks,102,/teams/DAL/2025.html,L,Phoenix Suns,114,/teams/PHO/2025.html,W
+39,/boxscores/pbp/202410260SAS.html,26,10,2024,Houston Rockets,106,/teams/HOU/2025.html,L,San Antonio Spurs,109,/teams/SAS/2025.html,W
+40,/boxscores/pbp/202410260WAS.html,26,10,2024,Cleveland Cavaliers,135,/teams/CLE/2025.html,W,Washington Wizards,116,/teams/WAS/2025.html,L
+41,/boxscores/pbp/202410250ATL.html,25,10,2024,Charlotte Hornets,120,/teams/CHO/2025.html,L,Atlanta Hawks,125,/teams/ATL/2025.html,W
+42,/boxscores/pbp/202410250CLE.html,25,10,2024,Detroit Pistons,101,/teams/DET/2025.html,L,Cleveland Cavaliers,113,/teams/CLE/2025.html,W
+43,/boxscores/pbp/202410250HOU.html,25,10,2024,Memphis Grizzlies,108,/teams/MEM/2025.html,L,Houston Rockets,128,/teams/HOU/2025.html,W
+44,/boxscores/pbp/202410250LAL.html,25,10,2024,Phoenix Suns,116,/teams/PHO/2025.html,L,Los Angeles Lakers,123,/teams/LAL/2025.html,W
+45,/boxscores/pbp/202410250MIL.html,25,10,2024,Chicago Bulls,133,/teams/CHI/2025.html,W,Milwaukee Bucks,122,/teams/MIL/2025.html,L
+46,/boxscores/pbp/202410250NYK.html,25,10,2024,Indiana Pacers,98,/teams/IND/2025.html,L,New York Knicks,123,/teams/NYK/2025.html,W
+47,/boxscores/pbp/202410250ORL.html,25,10,2024,Brooklyn Nets,101,/teams/BRK/2025.html,L,Orlando Magic,116,/teams/ORL/2025.html,W
+48,/boxscores/pbp/202410250POR.html,25,10,2024,New Orleans Pelicans,105,/teams/NOP/2025.html,W,Portland Trail Blazers,103,/teams/POR/2025.html,L
+49,/boxscores/pbp/202410250TOR.html,25,10,2024,Philadelphia 76ers,107,/teams/PHI/2025.html,L,Toronto Raptors,115,/teams/TOR/2025.html,W
+50,/boxscores/pbp/202410250UTA.html,25,10,2024,Golden State Warriors,127,/teams/GSW/2025.html,W,Utah Jazz,86,/teams/UTA/2025.html,L
+51,/boxscores/pbp/202410240DAL.html,24,10,2024,San Antonio Spurs,109,/teams/SAS/2025.html,L,Dallas Mavericks,120,/teams/DAL/2025.html,W
+52,/boxscores/pbp/202410240DEN.html,24,10,2024,Oklahoma City Thunder,102,/teams/OKC/2025.html,W,Denver Nuggets,87,/teams/DEN/2025.html,L
+53,/boxscores/pbp/202410240SAC.html,24,10,2024,Minnesota Timberwolves,117,/teams/MIN/2025.html,W,Sacramento Kings,115,/teams/SAC/2025.html,L
+54,/boxscores/pbp/202410240WAS.html,24,10,2024,Boston Celtics,122,/teams/BOS/2025.html,W,Washington Wizards,102,/teams/WAS/2025.html,L
+55,/boxscores/pbp/202410230ATL.html,23,10,2024,Brooklyn Nets,116,/teams/BRK/2025.html,L,Atlanta Hawks,120,/teams/ATL/2025.html,W
+56,/boxscores/pbp/202410230DET.html,23,10,2024,Indiana Pacers,115,/teams/IND/2025.html,W,Detroit Pistons,109,/teams/DET/2025.html,L
+57,/boxscores/pbp/202410230HOU.html,23,10,2024,Charlotte Hornets,110,/teams/CHO/2025.html,W,Houston Rockets,105,/teams/HOU/2025.html,L
+58,/boxscores/pbp/202410230LAC.html,23,10,2024,Phoenix Suns,116,/teams/PHO/2025.html,W,Los Angeles Clippers,113,/teams/LAC/2025.html,L
+59,/boxscores/pbp/202410230MIA.html,23,10,2024,Orlando Magic,116,/teams/ORL/2025.html,W,Miami Heat,97,/teams/MIA/2025.html,L
+60,/boxscores/pbp/202410230NOP.html,23,10,2024,Chicago Bulls,111,/teams/CHI/2025.html,L,New Orleans Pelicans,123,/teams/NOP/2025.html,W
+61,/boxscores/pbp/202410230PHI.html,23,10,2024,Milwaukee Bucks,124,/teams/MIL/2025.html,W,Philadelphia 76ers,109,/teams/PHI/2025.html,L
+62,/boxscores/pbp/202410230POR.html,23,10,2024,Golden State Warriors,140,/teams/GSW/2025.html,W,Portland Trail Blazers,104,/teams/POR/2025.html,L
+63,/boxscores/pbp/202410230TOR.html,23,10,2024,Cleveland Cavaliers,136,/teams/CLE/2025.html,W,Toronto Raptors,106,/teams/TOR/2025.html,L
+64,/boxscores/pbp/202410230UTA.html,23,10,2024,Memphis Grizzlies,126,/teams/MEM/2025.html,W,Utah Jazz,124,/teams/UTA/2025.html,L
